@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Comittee for the Affairs of the poor Protestants in the valleys of Piedmont</title>
+            <author>Trevor, John, Sir, d. 1673.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94830</idno>
+            <idno type="STC">Wing T2135</idno>
+            <idno type="STC">Thomason E1073_2</idno>
+            <idno type="STC">ESTC R208249</idno>
+            <idno type="EEBO-CITATION">99867214</idno>
+            <idno type="PROQUEST">99867214</idno>
+            <idno type="VID">170633</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94830)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170633)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 160:E1073[2], 249:E1073[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Comittee for the Affairs of the poor Protestants in the valleys of Piedmont</title>
+                  <author>Trevor, John, Sir, d. 1673.</author>
+                  <author>Hartman, Adam Samuel.</author>
+                  <author>Cyril, Paul.</author>
+                  <author>England and Wales. Committee for the Affairs of the poor Protestants in the Valleys of Piedmont.</author>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Hen. Hills and John Field, Printers to His Highness,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>anno Dom. 1658]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Author's name from Wing.</note>
+                  <note>Caption title; initial letter.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signed at end: Adam Samuel Hartman, pastor of the church of Lesna in Poland .. ; Paul Cyril .. .</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestant churches --  Poland --  Early works to 1800.</term>
+               <term>Church charities --  England --  Early works to 1800.</term>
+               <term>Bohemia (Czech Republic) --  Church history --  17th century --  Early works to 1800.</term>
+               <term>Poland --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="exhortation">
+            <pb n="1" facs="tcp:170633:1" rendition="simple:additions"/>
+            <head>By the Committee for the Affairs of the Poor Proteſtants in the <hi>Valleys of PIEDMONT.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He All-wiſe and Holy God, whoſe ways of Providence are always righteous, though often ſecret and unſearchable, hath made it the conſtant lot and portion of his peo<g ref="char:EOLhyphen"/>ple in this world, to follow the Lord in bearing his Croſs, and ſuffering Perſecutions, thereby holding forth and verifying that irreconcilable Enmity between the ſeed of the Woman, and the ſeed of the Ser<g ref="char:EOLhyphen"/>pent, which was viſible betimes in the Bloodſhed of righteous <hi>Abel,</hi> whom <hi>Cain</hi> (though his brother) ſlew, being of the wicked one, yea and for this cauſe, for that his own works were evil, and his brothers good. Thus they that are born after the fleſh, perſecute them that are born after the ſpirit to this day, and ſo will do while the the world laſteth. In which Cauſe and Quarrel the Lord hath very many glorious ends. But ſcarcely have any ſort of the Churches Enemies more clearly followed the pernicious ways of <hi>Cain</hi> herein, then hath the Anti<g ref="char:EOLhyphen"/>chriſtian Faction of <hi>Rome</hi> done, that Mother of Harlots and Abominations, whoſe garments are dyed red with the blood of Saints, which they have always cruelly ſhed, and made themſelves drunk with, even the blood of thoſe holy Followers of the Lamb, chiefly who would not receive Antichriſts mark, nor worſhip his Image, nor drink of the golden Cup of his Fornications, but rather come out from them, and witneſs againſt them, though they did it in ſackcloth, and were ſlain for it.</p>
+            <p>Among thoſe choſen and faithful Witneſſes, the Lord ſeemeth very ſignally to have raiſed up thoſe Chriſtians, who (though diſperſed in divers Countreys) have been commonly known by the name of <hi>Waldenſes,</hi> who for
+<pb n="2" facs="tcp:170633:2"/>ſome Centuries of years have lived among their Enemies as Lambs among Wolves, to bear their Teſtimony for the Truth of Chriſt, againſt the apoſtaſies and blaſphemies of <hi>Rome,</hi> for which they have been killed all the day long, and appointed as ſheep for the ſlaughter. Nevertheleſs the Lord, the great Shepherd of the ſheep, hath made their Blood thus ſhed, to become a conſtant ſeed of faith<g ref="char:EOLhyphen"/>ful and valiant Witneſſes for him; which is indeed the more marvellous in our eyes, that this Buſh hath ſo long burned, and is not yet conſumed.</p>
+            <p>This little Flock and Remnant which the Lord hath left and reſerved, are ſcattered partly in the <hi>Valleys of Pied<g ref="char:EOLhyphen"/>mont,</hi> of whoſe tragical Sufferings we have not long ſince heard, and have drawn forth our Bowels to them, where<g ref="char:EOLhyphen"/>of a very faithful Accompt is given to the world, both for ſatisfaction of Brethren and Friends, and for ſtopping the mouthes of all Calumnies.</p>
+            <p>The other part of this poor; yet precious Remnant, have been diſperſed in the Kingdoms of <hi>Bohemia</hi> and <hi>Po<g ref="char:EOLhyphen"/>land,</hi> whoſe Sufferings, together with the Lords ſignal Providences about them, have been very eminent and remarkable, as hath been made appear unto Us by three godly perſons, delegated by thoſe perſecuted Churches, which are now the ſad Monuments of their Enemies Rage, and of the Lords ſparing Mercies.</p>
+            <p>Theſe have made their Addreſſes to His Highneſs the Lord Protector by Petition, declaring the deplorable eſtate wherein this perſecuted Remnant now lieth, and with loud cries importuning the Chriſtian Bowels and Bounty of this Nation, which cannot but be moved to mourn over them, and to ſhew mercy to them. And in<g ref="char:EOLhyphen"/>deed upon a due ſenſe and conſideration of this lament<g ref="char:EOLhyphen"/>able ſubject, even common humanity, but much more Chriſtian charity ſhould provoke us to a Fellow-feeling of their preſent diſtreſſed Condition.</p>
+            <p>Theſe ſometimes flouriſhing Churches, were by de<g ref="char:EOLhyphen"/>grees worn out by the conſtant Underminings and open Outrages of the Antichriſtian party, being firſt driven
+<pb n="3" facs="tcp:170633:2"/>out of <hi>Bohemia</hi> into <hi>Poland,</hi> then after their taking root and ſpreading in <hi>Poland</hi> unto a numerous Company, were for<g ref="char:EOLhyphen"/>ced out of the chief Cities there, and now at laſt by the Jeſuited and inraged <hi>Poliſh</hi> Army perſecuted in their few hiding places, with fire and ſword.</p>
+            <p>Their Miniſters were tortured to death by moſt exqui<g ref="char:EOLhyphen"/>ſite and unheard of Barbariſm, by cutting out of the Tongues of ſome, pulling out the Eyes, and cruelly mangling the Bodies of others; nor did their Rage and brutiſh Cruelty reach onely to Miniſters, but to others, yea even to women and yong children, whoſe heads they cut off, and them at their dead mothers breaſts.</p>
+            <p>Nay, their rage brake out, not onely upon the Living (not one of whom they ſpared that fell into their hands) but alſo upon the dead, plucking the bodies of honorable Perſons and others out of the graves, tearing them to pie<g ref="char:EOLhyphen"/>ces, and expoſing them to publique ſcorn.</p>
+            <p>But the chief Eye-ſore and Object of their Fury was the City of <hi>Leſna,</hi> which (after plundring and murthering all whom they found therein) they burned to aſhes, and laid in rubbiſh; onely the Lord in his mercy having alarm'd the City of their Enemies approaching march, the great<g ref="char:EOLhyphen"/>eſt part of the Inhabitants (being three famous Churches) ſaved themſelves by flight, and are now wandring up and down in <hi>Sileſia,</hi> the Marquiſate of <hi>Brandeuburg, Luſa<g ref="char:EOLhyphen"/>tia</hi> and <hi>Hungary,</hi> poor, deſtitute, afflicted and naked.</p>
+            <p>His Highneſs and the Council having referred unto this Committee the Teſtimonials and Petitions ſent by the ſaid Churches, We finding upon examination there<g ref="char:EOLhyphen"/>of, their caſe to be thus deplorable, which is more at large ſtated and declared in their own Narrative, have cauſed the ſaid Narrative to be tranſlated, and herewith publiſhed, thereby to ſtir up the Lords people in theſe Nations to put on bowels of mercies towards theſe their exiled and afflicted brethren, refreſhing their hearts by your love, and the tokens of it in a cheerful and liberal ſupply; which will not onely preſerve this holy ſeed
+<pb n="4" facs="tcp:170633:3"/>from periſhing, that hath a bleſsing in it, but alſo up<g ref="char:EOLhyphen"/>hold among them the purity of Religion and Power of the Goſpel.</p>
+            <p>The rather conſidering the preſent freedom from theſe bloody outrages, we the people of theſe Nations do by the bleſsing of the Lord enjoy, the continuance whereof we may the more comfortably hope for, by how much our compaſsions are more freely extended to thoſe in mi<g ref="char:EOLhyphen"/>ſery. And if a cup of cold water given to one diſciple, as ſuch, ſhall not loſe its reward; how much more when a bountiful relief is given to more then five thouſand di<g ref="char:EOLhyphen"/>ſciples?</p>
+            <p>Which we ſhould be the more forward to advance, becauſe they acknowledge they have received much con<g ref="char:EOLhyphen"/>firmation in the Religion for which they ſuffer, by light received from our Countreyman <hi>Iohn Wicklef,</hi> that famous Witneſs of Chriſt againſt Antichriſt, even in the darkeſt times of Popery.</p>
+            <p>And we doubt not but that God who hath lately open<g ref="char:EOLhyphen"/>ed your bowels to ſo large and eminent a Contribution towards the perſecuted Proteſtants of <hi>Piedmont,</hi> (for which many Thankſgivings have been made to God on your behalf) will again draw out your hearts upon this like ſad occaſion, to the like bountiful liberality, it be<g ref="char:EOLhyphen"/>ing our duty to caſt our bread upon the waters, and to give a portion to ſix and alſo to ſeven, not being weary of well-doing, becauſe in due time we ſhall reap, if we faint not. Conſidering alſo how honorable it is to act grace, and to lay out our ſelves upon ſuch occaſions, we recommend it again as the work of God accompani<g ref="char:EOLhyphen"/>ed with his own voice, calling aloud upon us to inlarge our ſelves in this miniſtration, and withal to pour out our hearts in faith and prayer, that the Lord would yet pleaſe to raiſe up <hi>Sion</hi> upon the Ruins of <hi>Babylon,</hi> haſtening his work, and bleſsing means to it.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>John Trevor</hi>
+                     </item>
+                     <item>
+                        <hi>Chriſtopher Pack</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Purefoy</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Creſſet</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Vyner</hi>
+                     </item>
+                     <item>
+                        <hi>Joſeph Caryl</hi>
+                     </item>
+                     <item>
+                        <hi>John Owen</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Jenkyn</hi>
+                     </item>
+                     <item>
+                        <hi>Philip Nye</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Cooper</hi>
+                     </item>
+                     <item>
+                        <hi>Edmond Calamy.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="account">
+            <pb n="5" facs="tcp:170633:3"/>
+            <head>The utmoſt Fury of Antichriſt againſt the Prote<g ref="char:EOLhyphen"/>ſtants or Reformed Church of the <hi>Bohemi<g ref="char:EOLhyphen"/>an</hi> Confeſsion in <hi>Poland,</hi> ſet down in a brief (but faithful) Narrative, and according to the truth of the matter.</head>
+            <p>THe Spouſe of Jeſus Chriſt, ſhe who in the Cra<g ref="char:EOLhyphen"/>dle was beſprinkled with the blood of a Proto<g ref="char:EOLhyphen"/>martyr, hath always brought forth into the world men like <hi>Abel</hi> or <hi>Stephen,</hi> that ſo there might never be wanting to cry from the earth unto God, and that the wounds of that Roſe which lies among the Thorns of Perſecution might not be concealed. Every age, and every year in each age, and every moneth and day in each year, hath produced new inundations of blood un<g ref="char:EOLhyphen"/>to this day; and yet the little flock of the Lord hath al<g ref="char:EOLhyphen"/>ways increaſed under perſecutions, one while here; an<g ref="char:EOLhyphen"/>other there, ſhifting their ſeats and habitations. While it pleaſed God by the means of <hi>Wicklef</hi> to kindle the light of the Goſpel in <hi>Great Britain, Iohn Huſs</hi> aſſerted the truth of Jeſus Chriſt in the midſt of thick darkneſs of Popery in <hi>Bohemia,</hi> many thouſands being ſtirred up by God to receive it, who deſpiſing all the cruelty of Tyrants, re<g ref="char:EOLhyphen"/>ceived it with joy, until by Gods aſsiſtance they took rooting in the Kingdom, and grew up into flouriſhing Churches. In a ſhort time after, Antichriſt breathing out his fury, the Truth was baniſhed out of <hi>Bohemia,</hi> and the Confeſſors being driven out, tranſplanted the Go<g ref="char:EOLhyphen"/>ſpel into <hi>Poland;</hi> where being favorably entertained by King <hi>Sigiſmond,</hi> they in a ſhort time encreaſed to ſo great a number, that being little inferior to the Papiſts, they were able to boaſt of an equal authority and priviledges with them. Hence it came to paſs that the Kings at their Coronations were wont not onely to promiſe, but ſolemnly to ſwear protection to ſuch as diſagreed from the Roman Religion, and therefore they proceeded not
+<pb n="6" facs="tcp:170633:4"/>to open perſecutions, ſave onely in thoſe Cities where the Jeſuits had ſeated themſelves in power (to wit) <hi>Cra<g ref="char:EOLhyphen"/>covia, Poſen, Lublin, Vilna,</hi> and where by their diſciples, and by ſtirring up the common people to fury, the Churches of the Reformed Profeſſors were a good while ago demoliſhed, and divers Miniſters cruelly maſſacred. Nevertheleſs the malice of the Enemies being no whit allayed, they were many ways afflicted, firſt indirectly, afterwards by pretences under colour of Law, until thoſe Churches being worn out by degrees, and over<g ref="char:EOLhyphen"/>thrown, were not many years ago reduced to a very in<g ref="char:EOLhyphen"/>conſiderable number, eſpecially when as in the Reign of the late King, the enemies being confident they might do any thing, brought things to this paſs at length, that there were no more then Twenty one Congregations re<g ref="char:EOLhyphen"/>maining in the Greater <hi>Poland,</hi> and thoſe alſo ready to pe<g ref="char:EOLhyphen"/>riſh. But among theſe Twenty one remaining Churches, the chief, and as it were the Mother of them all, was that of <hi>Leſna,</hi> which was divided into three Congregations, the <hi>Bohemian,</hi> the <hi>Polonian</hi> and the <hi>German;</hi> each of which had their own Paſtors, but the Communicants joyntly were about Two thouſand: Therefore it was that this Church was in the firſt place expoſed to the Enemies malice, and of late deſigned to the ſlaughter, as well by reaſon of its being very much frequented and grown famous, as alſo becauſe of the Synod there uſually celebra<g ref="char:EOLhyphen"/>ted, as likewiſe a famous Univerſity and Printing-houſe, and Books frequently publiſhed to the world. When therefore in the year 1655. the <hi>Swediſh</hi> Army out of <hi>Pome<g ref="char:EOLhyphen"/>rania</hi> drew near to the borders of <hi>Poland,</hi> and the Nobi<g ref="char:EOLhyphen"/>lity were ſummoned to Arms, according to the Cuſtom of the Countrey, it came to paſs that the Papiſts brake forth into many furious expreſsions, crying out, That the Hereticks had invited the Enemy, and therefore they were firſt of all to be put to the ſword and extirpated; which reports, though moſt falſly ſcattered abroad (for the ſearcher of hearts and reins knoweth, that we never ſo much as dreamt of it) yet they eaſily found credit
+<pb n="7" facs="tcp:170633:4"/>among the ſworn enemies of the Goſpel, who ſought no<g ref="char:EOLhyphen"/>thing more then our ruine. Hereupon they who firſt conſulted to agree with the <hi>Swediſh</hi> Army, being terrifi<g ref="char:EOLhyphen"/>ed by its power, concluded about the Surrender of all Great <hi>Poland</hi> into the Kings protection, and namely, the Royal Cities of <hi>Poſen, Caliſſen, Meſerick,</hi> and to which alſo <hi>Leſna</hi> was expreſly added: In a little time after they endeavored to caſt off the <hi>Swediſh</hi> Yoke, and turned their Arms not againſt the <hi>Swedes,</hi> but firſt againſt our Evan<g ref="char:EOLhyphen"/>gelical Profeſſors, as conſpiring with the <hi>Swedes</hi> upon the account of Religion, and none of them ſcrupled to take revenge upon them. They firſt of all ſet upon thoſe of <hi>Leſna,</hi> with reſolution of putting all to the ſword, and deſtroying that Heretical City by fire, and they had ef<g ref="char:EOLhyphen"/>fected both, unleſs God had by ſending ſome perſons before, who by ſignifying the coming of the Enemy, and with what intent they came, had poſſeſt the Citi<g ref="char:EOLhyphen"/>zens with a panick fear, ſo that leaving all their Eſtates, they every man fled; and thus within the ſpace of one hour, a moſt populous City abounding with all maner of wealth, was left without Inhabitants, who in a miſe<g ref="char:EOLhyphen"/>rable condition wandered then into the neighboring Woods and Mariſhes into <hi>Sileſia.</hi> But the <hi>Poliſh</hi> Nobi<g ref="char:EOLhyphen"/>lity with their Army entring the City, did what they pleaſed, ſlaying a great number of decrepit old people, and ſick perſons, that were not able to ſave themſelves by flight; then the City it ſelf was firſt plundred, and afterwards ſo deſtroyed by Fire for three days together, that no part of it remained beſide rubbiſh and aſhes. In what maner they would have handled the Citizens, eſpecially their Paſtors, they ſhewed by their heroick actions performed in other places, by the moſt ſavage Slaughtering of divers Miniſters of the Church, and other faithful Members of Chriſt of both Sexes; for of all that they laid hold on, they gave not one man quarter, but very cruelly put them to death with moſt exquiſite tortures. They endeavored to force M<hi rend="sup">r</hi> 
+               <hi>Samuel Cardus,</hi> Paſtor of the Church of <hi>Czuertzinen,</hi> to renounce his Re<g ref="char:EOLhyphen"/>ligion,
+<pb n="8" facs="tcp:170633:5"/>after they had taken him, and miſerably handled him with all maner of cruelty, but he ſtoutly reſiſting, they firſt put out his Eyes, and led him about for a Spe<g ref="char:EOLhyphen"/>ctacle, then they pulled off his Fingers ends with pin<g ref="char:EOLhyphen"/>cers; but he not yet condeſcending to their mad Fury, they found out a new kinde of torment, poured molten Lead into his mouth, and at length while he was yet half alive, they clapt his Neck between folding Doors, and violently pulling them together, ſevered his Head from his Body. They took <hi>Iohn Iacobides,</hi> Paſtor of the Church of <hi>Dembnick,</hi> and <hi>Alexander Wartens</hi> his Col<g ref="char:EOLhyphen"/>league, and another that was in company with them, as they paſſed through the Town of LUBIN, and hurry<g ref="char:EOLhyphen"/>ing them up and down for divers hours, and grievouſly handling them after the maner of Tyrants, then laſt of all cutting their Throats with a Razor, threw them head<g ref="char:EOLhyphen"/>long, while they were yet breathing, into a great pit, which had been before-hand prepared for their Martyrs, and ſtifled them by caſting down Dung and Dirt upon them. They a great while purſued <hi>Andrew Oxlitius</hi> a yong man deſigned for the Miniſtery, whom after long ſeek<g ref="char:EOLhyphen"/>ing, they at laſt found in the open field, and in the end having taken him, they cut off his Head with a Sithe, chopping it into ſmall pieces, and the dead carkaſe alſo they ſlaſht in a barbarous maner. The ſame fate befel <hi>Adam Milota</hi> a Citizen of <hi>Leſna;</hi> but they more grievouſly handled an old man of above ſeventy, whoſe name was <hi>Simon Priten,</hi> and many others, whoſe names it were too tedious to relate. Of that barbarous execution which they did upon the weaker Sex, there were beſides other examples, horrid Trophies of Cruelty erected in the ſaid City of <hi>Leſna:</hi> a pious Matron there, who was the mo<g ref="char:EOLhyphen"/>ther of three children, not being able quick enough to leave the City, and being ſlain in the open ſtreet, they cut off her hands and feet, and cutting off her childrens heads, they laid two of them at her breaſts, and the third by her ſide. In like maner, another woman having her hands and feet cut off, and her tongue cut out, being
+<pb n="9" facs="tcp:170633:5"/>incloſed and bound in a Sack, lived the ſpace of two days, making moſt miſerable lamentation. Grief for<g ref="char:EOLhyphen"/>bids us to adde more, for they behaved themſelves ſo fu<g ref="char:EOLhyphen"/>riouſly towards us, that there remains not an example of any one man ſaved of all thoſe that happened to fall into their hands. It is notoriouſly known how that fury of theirs tyrannized alſo over the dead; ſome they dragd out of their graves and cut in pieces, as at <hi>Zichlin;</hi> others they expoſed naked for a publique Spectacle, as at <hi>Leſna;</hi> of which outragious action we had an example, even in the dead Body of the moſt Serene Landgrave of <hi>Haſsia,</hi> which was drawn out of the grave, who was heretofore ſlain in a moſt barbarous and tyrannical maner at <hi>Koſ<g ref="char:EOLhyphen"/>cian,</hi> but buried by our Friends at <hi>Leſna.</hi> The like was acted alſo upon the Body of the moſt Noble <hi>Arciszevius,</hi> heretofore the valiant Admiral of the <hi>Hollanders</hi> in <hi>Bra<g ref="char:EOLhyphen"/>zile,</hi> which was likewiſe dragd out of the grave, and be<g ref="char:EOLhyphen"/>ing ſtript of the Grave-clothes, was found after the firing of <hi>Leſna.</hi> There are divers other examples, which the Chriſtian Reader may finde in the Book, Entituled, <hi>Leſnae Excidium,</hi> faithfully written, and lately ſet forth in print; but they are ſuch examples onely as are com<g ref="char:EOLhyphen"/>monly known, for who is able to relate all things in particular? as burning men alive, drowning others with ſtones tyed about their necks, <hi>&amp;c.</hi>
+            </p>
+            <p>Now <hi>Leſna</hi> being deſtroyed, the fury of the Enemy proceeded to the perſecutions of others, they in a ſhort time utterly demoliſhed all our Congregations, not one<g ref="char:EOLhyphen"/>ly driving away the Paſtors, but alſo either burning or leaving moſt of the Temples deſolate, as at <hi>Karmin, Dembnick, Skochy, Czriuczin,</hi> &amp;c. yea and the Auditories themſelves were either ſlain (as in the Town of <hi>Skochy,</hi> where there was a very flouriſhing Church of the <hi>Bohe<g ref="char:EOLhyphen"/>mian</hi> Exiles, Sixty perſons, both men and women were cruelly put to death) or elſe they were ſcattered abroad, ſo that there remained not one place wherein the Wor<g ref="char:EOLhyphen"/>ſhip of God may be celebrated. Lo, this is the moſt mi<g ref="char:EOLhyphen"/>ſerable ſtate and condition of our Churches; moreover
+<pb n="10" facs="tcp:170633:6"/>our Countreymen, to the number of 5000 beſides youths and children, being diſperſed in baniſhment (which hath now befallen moſt of us the ſecond time) eſpecially throughout <hi>Sileſia;</hi> as alſo through the <hi>Marck, Luſatia, Hungary,</hi> &amp;c. finde no comfort, but much miſery, and are there expoſed to the hatred and envy of men. We that are Paſtors dare not openly miniſter to our Au<g ref="char:EOLhyphen"/>ditories with the Word and Sacraments, but onely in private Meetings, or in Woods among Fenny places, God onely ſeeing us, who is witneſs of theſe calamities, and our comfort in extremities. Indeed being thus deſti<g ref="char:EOLhyphen"/>tute of all things, we lead a wretched life in baniſhment, being afflicted with hunger and nakedneſs, and are be<g ref="char:EOLhyphen"/>come next to the moſt miſerable <hi>Waldenſes,</hi> the greateſt ſpectacle of calamity to the Chriſtian World, for ſo it hath ſeemed good to that Soveraign Wiſdom that go<g ref="char:EOLhyphen"/>verns all things, that we ſhould be inheritors of the Cloſs and perſecution of thoſe men from whom we have deri<g ref="char:EOLhyphen"/>ved the original of our Doctrine and external Succeſsi<g ref="char:EOLhyphen"/>on: For truly we are the remaining Progeny even of the <hi>Waldenſes,</hi> with whom being raiſed from the aſhes of bleſſed <hi>Huſs,</hi> and with whom combining into the ſame holy Fellowſhip of the Faith and afflictions of Chriſt, we have for two whole ages and more, been perpetually ſubject to the like ſtorms of Calamities, until at length we fell into this Calamity, greater then ever was known in the memory of our Fathers, and which threatens us with utter deſtruction, unleſs God prevent it. The truth is, this buſineſs conſtrains us to amazement and tears, greater then can be expreſt in words, to ſet forth our af<g ref="char:EOLhyphen"/>fliction and ſorrow: If there be any conſolation in Chriſt, if any comfort of love, if any fellowſhip of the Spirit, if any bowels and mercies, we deſire that this af<g ref="char:EOLhyphen"/>fliction of <hi>Joſeph</hi> may be recommended, eſpecially to all that are of the houſhold of Faith. Let them not ſuffer thoſe to periſh whom the ſame Faith, and the ſame Spi<g ref="char:EOLhyphen"/>rit of Chriſt hath joyned with them in ſo near a relation; we beſeech them in the Name of Chriſt, that they would
+<pb n="11" facs="tcp:170633:6"/>rather make haſte to relieve thoſe who are ready to pe<g ref="char:EOLhyphen"/>riſh, we being aſſured that we ſuffer this perſecution up<g ref="char:EOLhyphen"/>on no other account, then for the confeſsion of the Truth, from thoſe Enemies who have acted ſuch things as theſe are againſt us in times paſt, and are now at length by Gods permiſsion, pouring out their fury up<g ref="char:EOLhyphen"/>on us.</p>
+            <closer>
+               <signed>Signed in the name of the ſaid diſtreſſed Churches, by their Delegates and now Exiles for the Cauſe of Chriſt;
+<list>
+                     <item>Adam Samuel Hartman, <hi>Paſtor of the Church of</hi> Leſna <hi>in</hi> Poland, <hi>and Rector of the famous Univerſity there.</hi>
+                     </item>
+                     <item>Paul Cyril <hi>a late Member of the Univerſity of</hi> Lyſna.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by HEN. HILLS and JOHN FIELD, Printers to His Highneſs. <hi>Anno Dom.</hi> 1658.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
